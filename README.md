@@ -1,4 +1,4 @@
-# Project 1 React Native
+# Project 2 React Native With Redux and Axios
 
 ### Objectives
 
