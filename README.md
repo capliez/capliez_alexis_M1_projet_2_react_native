@@ -1,8 +1,8 @@
 # Project 2 React Native With Redux and Axios
 
-### Intro
+### Objectives
 
-SharEat brings together individuals who cook from home and who want to share their love of cooking at prices accessible to all.
+Create application of recipe
 
 ### Prerequisites
 
@@ -13,11 +13,10 @@ What you need to use it:
 ### Installation
 
 Step to install:
-  1. ``` git clone https://github.com/capliez/MDS_Hackathon_2021_SharEat.git ```
+  1. ``` git clone https://github.com/capliez/capliez_alexis_M1_projet_2_react_native.git ```
   2. ``` npm install ```
   3. ``` expo start ```
 
 ### How to use the application
 
 1. ``` Click on a recipe to see more details ```
-2. `` Choose quantity and add to cart ```
